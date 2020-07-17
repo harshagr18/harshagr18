@@ -1,7 +1,7 @@
 # My Name is Harsh Sanjay Agrawal
 I am an ambitious and energetic student, who commits most of his time, to learning new upcoming technologies. I have worked with numerous fields of coding including full stack web and android development, microcontroller hardware, competitive coding and even animation. As an undergraduate I was introduced to Machine Learning which grabbed my interest instantly and I've been dedicated to mastering this vast field of Artificial Intelligence ever since.
 
-<img align="right" src="https://octodex.github.com/images/grim-repo.jpg" height="250">
+<a href="https://youtu.be/YZBYqsgwCuI"><img align="right" src="http://img.youtube.com/vi/YZBYqsgwCuI/0.jpg" height="250">
 
 ## Skills
 * Machine Learning
