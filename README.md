@@ -13,8 +13,6 @@ I am an ambitious and energetic student, who commits most of his time, to learni
 * Competitve exam for my masters' degree.
 * WBAIS ( Web Based Autonomous Irrigation System ) 
 
-## You can find me on
-
 <p align="center">
     <a href="mailto:harshagrawal1802@gmail.com"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/harsh-sanjay-agrawal/"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
