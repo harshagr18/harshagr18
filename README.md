@@ -9,9 +9,10 @@ I am an ambitious and energetic student, who commits most of his time, to learni
 * Android and Web Full Stack
 * Animation and Graphics
 
-## Things I'm working on
-* Competitve exam for my masters' degree.
-* WBAIS ( Web Based Autonomous Irrigation System ) 
+## Currently Working in
+* SIESGSTarena, the Codechef campus chapter of SIESGST
+* IEEESIESGST, the IEEE SB of SIESGST
+* TEDxSIESGST
 
 <p align="center">
     <a href="mailto:harshagrawal1802@gmail.com"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
