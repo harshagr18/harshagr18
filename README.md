@@ -10,9 +10,9 @@ I am an ambitious and energetic student, who commits most of his time, to learni
 * Animation and Graphics
 
 ## Currently Working in
-* SIESGSTarena, the Codechef campus chapter of SIESGST
-* IEEESIESGST, the IEEE SB of SIESGST
-* TEDxSIESGST
+* <a href = "http://arena.siesgst.ac.in/">Arena</a>
+* <a href = "https://ieeesiesgst.co.in/">IEEE</a>
+* <a href = "https://www.ted.com/tedx/events/37956">TEDx</a>
 
 <p align="center">
     <a href="mailto:harshagrawal1802@gmail.com"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
