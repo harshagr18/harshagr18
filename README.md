@@ -12,7 +12,6 @@ I am an ambitious and energetic student, who commits most of his time, to learni
 ## Currently Working in
 * <a href = "http://arena.siesgst.ac.in/">Arena</a>
 * <a href = "https://ieeesiesgst.co.in/">IEEE</a>
-* <a href = "https://www.ted.com/tedx/events/37956">TEDx</a>
 * <a href = "https://dsc.community.dev/sies-graduate-school-of-technology/">DSC-SIESGST</a>
 
 <p align="center">
