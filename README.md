@@ -6,8 +6,8 @@ I am an ambitious and energetic student, who commits most of his time, to learni
 ## Skills
 * Machine Learning
 * Competitive Coding
-* Android and Web Full Stack
-* Animation and Graphics
+* AWS Cloud
+* Web Full Stack
 
 <p align="center">
     <a href="mailto:harshagrawal1802@gmail.com"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
